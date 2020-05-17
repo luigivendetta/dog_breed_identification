@@ -13,4 +13,5 @@ evaluated on Multi Class Log Loss between the predicted probability and the obse
 We are dealing with image data (unstructured data), it's best to use deep learning/transfer learning.
 * There are 120 breeds of dog (this means there are 120 different classes).
 * There are 10,222 train sample images.
-There are 10,357 test images. images have no label.
+* There are 10,357 test images. 
+* images have no label.

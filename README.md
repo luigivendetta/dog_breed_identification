@@ -14,4 +14,4 @@ We are dealing with image data (unstructured data), it's best to use deep learni
 * There are 120 breeds of dog (this means there are 120 different classes).
 * There are 10,222 train sample images.
 * There are 10,357 test images. 
-* images have no label.
+* test set images have no label.

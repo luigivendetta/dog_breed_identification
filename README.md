@@ -17,5 +17,3 @@ We are dealing with image data (unstructured data), it's best to use deep learni
 * There are 10,357 test images. 
 * test set images have no label.
 
-## Submission Score:
-![](https://github.com/luigivendetta/dog_breed_identification/blob/master/subscore.png)
